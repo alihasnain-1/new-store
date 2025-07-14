@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    .hero h1{
+    font-size: 2.8rem;
+}
+.hero {
+    background-color: green;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+.hero-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    position: relative;
+}
+.hero p {
+    font-size: 1.3rem;
+    margin: 1.8rem
+}
+.cat-btn {
+    display: inline-block;
+    background-color:rgb(73,144,73);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+}.box{
+    margin: 20px 60px;
+    max-width: 1200px;
+}
+.process{
+    width: 420px;
+    background-color: white;
+    height: 230px;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+}.process h4{
+    padding: 5px;
+}
+.process p{
+    padding: 5px;
+}
+.process a{
+    color: inherit;
+    color: green;
+    text-decoration: none;
+}
+.process ul li{
+    list-style: none;
+    padding: 30px 10px;
+}
+.box h1{
+    font-size: 2.3rem;
+    padding: 15px 20px;
+    color: green;
+    
+}
